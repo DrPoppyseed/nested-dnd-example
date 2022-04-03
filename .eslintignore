@@ -1,0 +1,13 @@
+# build files
+build
+dist
+
+# test coverages
+coverage
+
+# dependencies
+node_modules
+.pnpm-store
+
+# static files and assets
+public
